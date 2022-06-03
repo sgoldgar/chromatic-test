@@ -3871,6 +3871,11 @@
   "resolved" "https://artifactory.us-east-1.bamgrid.net/api/npm/fed-npm/chownr/-/chownr-2.0.0.tgz"
   "version" "2.0.0"
 
+"chromatic@^6.5.6":
+  "integrity" "sha512-kXuqh3I9NZQYDR7ov5jvGatFVymkkb8fLOPFTg7XyKhAFv3qRlwR/c5Nsz5LpfuXrPAZfPVrNL7l2SROrDP96A=="
+  "resolved" "https://artifactory.us-east-1.bamgrid.net/api/npm/fed-npm/chromatic/-/chromatic-6.5.6.tgz"
+  "version" "6.5.6"
+
 "chrome-trace-event@^1.0.2":
   "integrity" "sha512-p3KULyQg4S7NIHixdwbGX+nFHkoBiA4YQmyWtjb8XngSKV124nJmRysgAeujbUVb15vh+RvFUfCPqU7rXk+hZg=="
   "resolved" "https://artifactory.us-east-1.bamgrid.net/api/npm/fed-npm/chrome-trace-event/-/chrome-trace-event-1.0.3.tgz"
